@@ -1,0 +1,8 @@
+[package]
+name = "rust-go-example"
+version = "0.1.0"
+authors = ["SineYuan <stringread@gmail.com>"]
+build = "build.rs"
+
+[dependencies]
+libc = "0.2.0"
